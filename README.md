@@ -1,4 +1,4 @@
-<a href="https://neosporin10.github.io/">Neosporin10.github.io</a>
+<a href="https://neosporin10.github.io/home">Neosporin10.github.io/home</a>
 
 <b> Here is the link ^^ </b>
 
