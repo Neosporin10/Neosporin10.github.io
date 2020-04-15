@@ -1,6 +1,6 @@
 <a href="https://neosporin10.github.io/home">Neosporin10.github.io/home</a>
 
-<b> Here is the link ^^ </b>
+<h2> <b> Here is the link ^^ </b> </h2>
 
 Testing web sites:
 
@@ -40,6 +40,6 @@ For further questions - Please Email me at <b> mikeyraptor@protonmail.com </b> a
 <a href="https://neosporin10.github.io/redpandamining">Neosporin10.github.io/redpandamining</a>
 
 
-<h1> <b><i>  ~ Added a miningpool site for anyone that wants to try to make a mining pool!! </i></b>
+<h4> <b><i>  ~ Added a miningpool site for anyone that wants to try to make a mining pool!! </i></b>
 
-<a href="https://neosporin10.github.io/miningpool">Neosporin10.github.io/miningpool</a> </h1>
+<a href="https://neosporin10.github.io/miningpool">Neosporin10.github.io/miningpool</a> </h4>
