@@ -1,0 +1,39 @@
+{
+  "candidatesTotal": 0,
+  "hashrate": 620521.51,
+  "immatureTotal": 23,
+  "luck": 182.25,
+  "maturedTotal": 21954,
+  "minersTotal": 1337,
+  "nodes": [
+    {
+      "avgBlockTime": "609.85",
+      "difficulty": "225346.7019",
+      "height": "629576",
+      "height_asia": "629576",
+      "height_us": "629576",
+      "lastBeat": "1586958094",
+      "name": "btg_pplns",
+      "networkhashps": "2832450.0202"
+    }
+  ],
+  "now": 1586958095159,
+  "poolCharts": [
+    {
+      "netdiff": 225346.7019,
+      "nethr": 2832450.0202,
+      "timeFormat": "2020-04-15 13_40",
+      "x": 1586958000,
+      "y": 620788.9
+    }
+  ],
+  "stats": {
+    "asia_sessions": 24,
+    "eu_sessions": 15019,
+    "lastBlockFound": 1586952592,
+    "nShares": 20000,
+    "roundShares": 410694.5,
+    "us_sessions": 23
+  },
+  "workersTotal": 2783
+}
