@@ -1,0 +1,9 @@
+    .fakeimg1 {
+    
+    height:200px;
+    width:300px;
+    background:url(/images/coder.jfif);
+    background-repeat: no-repeat;
+    background-size: cover;
+  
+  }
